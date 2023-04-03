@@ -60,6 +60,8 @@ Some of these tasks may also have mentors available, visit the task page for mor
 
 <!-- CFPs go here, use this format: * [project name - title of issue](link to issue) -->
 <!-- * [ - ]() -->
+* [Hyperswitch - Use newtype pattern for email addresses](https://github.com/juspay/hyperswitch/issues/608)
+* [Hyperswitch - Determine card brand from card BIN](https://github.com/juspay/hyperswitch/issues/379)
 
 If you are a Rust project owner and are looking for contributors, please submit tasks [here][guidelines].
 
